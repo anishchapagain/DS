@@ -5,7 +5,7 @@ Popular Pubs in England, Wales, Scotland, Ireland
 - NLP 
 - NLTK
 - ChatGPT
-- TextBlod
+- TextBlob
 - Vader
 - Apache Arrow
 - AntiScraping to Adapt (v1 Paulin)
